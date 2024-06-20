@@ -10,11 +10,13 @@ for training batch size is taken 64 and number of epochs 50 and latent dimension
 
 ## Sample images from Data
 
+![download](https://github.com/SameerSri72/Variational_auto_encoder/assets/142829103/d4965c4f-b6ad-4247-ba84-c03073b33a59)
 
 
 ## Generated images
 Sampling vector of latent dimension from normal distribution and passing it to decoder generates new images.
 10 new generated images are shown below.
+![download (1)](https://github.com/SameerSri72/Variational_auto_encoder/assets/142829103/77f8efdc-f868-4c76-8ee4-dd22666cacc8)
 
 
 
