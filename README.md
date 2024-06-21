@@ -6,7 +6,8 @@ Variational Autoencoders (VAEs) are a type of generative model that combine prin
 ## This Project
 I tried to generate new faces using VAE. Model is trained on the LFW face dataset which contains 13143 samples provided by [JESSICA LI](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset).
 Data preprocessing is done with the help of work done by [SERGEI AVERKIEV](https://www.kaggle.com/code/averkij/variational-autoencoder-and-faces-generation#Explore-the-data). Sergei implemented VAE using Pytorch on this dataset. but in my code implementaion is done using keras.
-for training batch size is taken 64 and number of epochs 50 and latent dimension of encoded image is 128
+for training batch size is taken 64 and number of epochs 50 and latent dimension of encoded image is 128. Use **Google colab** to run the code
+
 
 ## Sample images from Data
 
